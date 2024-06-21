@@ -1,20 +1,22 @@
-# Justin Spidell #
-## About Me ##
+# Justin Spidell
 
-Hi! I am a recently graduated Software Engineer, from San Jose, CA. I Studied at the University of Oregon, and am currently looking for work. 
-Here you will find finished and incomplete projects, I work on them as I can.
+## About Me
 
-## Some highlights ##
+Hello! I am a Software Engineer based out of Seattle, WA. I studied at the University of Oregon, and have just completed a 2 yr lap as a SWE at Microsoft.
 
-### P2P ###
- - A completely encrypted, locally stored Peer-to-Peer web-based messaging system.
+## Some highlights
 
-### Parallel Fourier Transforms ###
- - A library of handwritten Multi-Threaded Discrete Fourier Transform Algorithms. Capable of extracting specific pitches from a WAV file.
+### nixos-config
+- My personal NixOS configuration files
 
-### Snake AI ###
- - A Generational Neural Network built by hand to play the classic game, Snake.
+### P2P
+- A completely encrypted, locally stored Peer-to-Peer web-based messaging system.
 
-## Contact ##
+### Parallel Fourier Transforms
+- A library of handwritten Multi-Threaded Discrete Fourier Transform Algorithms. Capable of extracting specific pitches from a WAV file.
 
-Feel free to reach out to me at my [email](mailto:justintspidell@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/justinspidell1427/).
+### Snake AI
+- A Generational Neural Network built by hand to play the classic game, Snake.
+
+## Contact
+Feel free to reach out to me at my [email](mailto:jspidell@proton.me) or connect with me on [Linkedin](https://www.linkedin.com/in/justinspidell1427/).
