@@ -2,12 +2,15 @@
 
 ## About Me
 
-Hello! I am a Software Engineer based out of Seattle, WA. I studied at the University of Oregon, and have just completed a 2 yr lap as a SWE at Microsoft.
+Hello! I am a Software Engineer based out of Seattle, WA. I studied at the University of Oregon, and worked at Microsoft, in the Azure App Services orginization. I took some time off to realign and now I'm looking for new roles! I have experience in AI, webdev, infra, and embedded. Right now I'm mostly looking for embedded roles, but I'm open to anything!
 
-## Some highlights
+### Contact
+Feel free to reach out to me at my [email](mailto:justintspidell@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/justinspidell1427/).
 
-### nixos-config
-- My personal NixOS configuration files
+## Highlights
+
+### QMC5883L
+- A library written in C using the pico-sdk to interface with the `QMC5883L` magnetic compass.
 
 ### P2P
 - A completely encrypted, locally stored Peer-to-Peer web-based messaging system.
@@ -17,6 +20,3 @@ Hello! I am a Software Engineer based out of Seattle, WA. I studied at the Unive
 
 ### Snake AI
 - A Generational Neural Network built by hand to play the classic game, Snake.
-
-## Contact
-Feel free to reach out to me at my [email](mailto:jspidell@proton.me) or connect with me on [Linkedin](https://www.linkedin.com/in/justinspidell1427/).
