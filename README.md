@@ -20,3 +20,6 @@ Feel free to reach out to me at my [email](mailto:justintspidell@gmail.com) or c
 
 ### Snake AI
 - A Generational Neural Network built by hand to play the classic game, Snake.
+
+### Camera Calculator
+- A Computer Vision based Calculator, trained to solve mathmatical equations.
