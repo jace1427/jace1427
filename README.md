@@ -1,21 +1,21 @@
-```
+`````
                   -`                      Justin Spidell
-                 .o+`                     ---
+                 .o+`                     ------------------------------------------------
                 `ooo/                     UserName: jace1427
                `+oooo:                    Email: justin.t.spidell@gmail.com
-              `+oooooo:                   Location: Seattle, WA
+              `+oooooo:                   Location: Seattle, Washington
               -+oooooo+:                  Company: N/A
             `/:-:++oooo+:                 OS: Arch Linux x86_64
-           `/++++/+++++++:                Shell: bash 5.2.37
-          `/++++++++++++++:               DE: KDE Plasma 6.2.5
-         `/+++ooooooooooooo/`             Terminal: ghostty 1.1.0-arch
+           `/++++/+++++++:                Shell: bash
+          `/++++++++++++++:               DE: KDE Plasma
+         `/+++ooooooooooooo/`             Terminal: ghostty
         ./ooosssso++osssssso+`
-       .oossssso-````/ossssss+`           Bio: Software Engineer based out of Seattle, WA. University of Oregon grad, Microsoft Alumnus.
-      -osssssso.      :ssssssso.          Skills: WebDev, Infra, Embedded
+       .oossssso-````/ossssss+`           Bio: Software Engineer based out of Seattle, WA.
+      -osssssso.      :ssssssso.          University of Oregon / Microsoft Alumnus.
      :osssssss/        osssso+++.
-    /ossssssss/        +ssssooo/-
+    /ossssssss/        +ssssooo/-         Skills: WebDev, Infra, Embedded
   `/ossssso+/:-        -:/+osssso+-
  `+sso+:-`                 `.-/+oso:
 `++:.                           `-/+/
 .`                                 `/
-```
+`````
