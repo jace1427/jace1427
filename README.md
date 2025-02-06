@@ -1,25 +1,20 @@
-# Justin Spidell
+                  -`                      Justin Spidell
+                 .o+`                     ---
+                `ooo/                     UserName: jace1427
+               `+oooo:                    Email: justin.t.spidell@gmail.com
+              `+oooooo:                   Location: Seattle, WA
+              -+oooooo+:                  Company: N/A
+            `/:-:++oooo+:                 OS: Arch Linux x86_64
+           `/++++/+++++++:                Shell: bash 5.2.37
+          `/++++++++++++++:               DE: KDE Plasma 6.2.5
+         `/+++ooooooooooooo/`             Terminal: ghostty 1.1.0-arch
+        ./ooosssso++osssssso+`
+       .oossssso-````/ossssss+`           Bio: Software Engineer based out of Seattle, WA. University of Oregon grad, Microsoft Alumnus.
+      -osssssso.      :ssssssso.          Skills: WebDev, Infra, Embedded
+     :osssssss/        osssso+++.
+    /ossssssss/        +ssssooo/-         ![](https://placehold.co/35x20/222436/222436.png)![](https://placehold.co/35x20/1e2030/1e2030.png)![](https://placehold.co/35x20/2d3f76/2d3f76.png)![](https://placehold.co/35x20/636da6/636da6.png)![](https://placehold.co/35x20/828bb8/828bb8.png)![](https://placehold.co/35x20/3b4261/3b4261.png)![](https://placehold.co/35x20/828bb8/828bb8.png)![](https://placehold.co/35x20/c8d3f5/c8d3f5.png)
 
-## About Me
-
-Hello! I am a Software Engineer based out of Seattle, WA. I studied at the University of Oregon, and worked at Microsoft, in the Azure App Services orginization. I took some time off to realign and now I'm looking for new roles! I have experience in AI, webdev, infra, and embedded. Right now I'm mostly looking for embedded roles, but I'm open to anything!
-
-### Contact
-Feel free to reach out to me at my [email](mailto:justintspidell@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/justinspidell1427/).
-
-## Highlights
-
-### QMC5883L
-- A library written in C using the pico-sdk to interface with the `QMC5883L` magnetic compass.
-
-### P2P
-- A completely encrypted, locally stored Peer-to-Peer web-based messaging system.
-
-### Parallel Fourier Transforms
-- A library of handwritten Multi-Threaded Discrete Fourier Transform Algorithms. Capable of extracting specific pitches from a WAV file.
-
-### Snake AI
-- A Generational Neural Network built by hand to play the classic game, Snake.
-
-### Camera Calculator
-- A Computer Vision based Calculator, trained to solve mathmatical equations.
+`/ossssso+/:-        -:/+osssso+-         ![](https://placehold.co/35x20/ff757f/ff757f.png)![](https://placehold.co/35x20/ffc777/ffc777.png)![](https://placehold.co/35x20/ffc777/ffc777.png)![](https://placehold.co/35x20/c3e88d/c3e88d.png)![](https://placehold.co/35x20/86e1fc/86e1fc.png)![](https://placehold.co/35x20/82aaff/82aaff.png)![](https://placehold.co/35x20/fca7ea/fca7ea.png)![](https://placehold.co/35x20/c53b53/c53b53.png)
+ `+sso+:-`                 `.-/+oso:  
+`++:.                           `-/+/  
+.`                                 `/
